@@ -55,3 +55,8 @@ Or clone the source code from `Github <https://github.com/moskytw/mosql>`_:
 ::
 
     $ git clone git://github.com/moskytw/mosql.git
+
+Project status
+--------------
+
+.. image:: https://travis-ci.org/xKerman/mosql.png

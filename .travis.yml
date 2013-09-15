@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+language: python
+
+install: pip install -r dev_requirements.txt
+
+script: tox
