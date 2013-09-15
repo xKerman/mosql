@@ -56,8 +56,8 @@ Or clone the source code from `Github <https://github.com/moskytw/mosql>`_:
 
     $ git clone git://github.com/moskytw/mosql.git
 
-Project status
---------------
+Build status
+------------
 
 .. image:: https://travis-ci.org/xKerman/mosql.png?branch=add-travis-spike
    :target: https://travis-ci.org/xKerman/mosql
