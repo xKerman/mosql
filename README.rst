@@ -59,4 +59,5 @@ Or clone the source code from `Github <https://github.com/moskytw/mosql>`_:
 Project status
 --------------
 
-.. image:: https://travis-ci.org/xKerman/mosql.png
+.. image:: https://travis-ci.org/xKerman/mosql.png?branch=add-travis-spike
+   :target: https://travis-ci.org/xKerman/mosql
